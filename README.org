@@ -2,8 +2,8 @@
 
 Unix-style command line options parser.
 
-|---------+----------------------------------------------------------------------------|
-| source  | file:https://github.com/libre-man/unix-opts/archive/refs/tags/0.1.7.tar.gz |
-| version | 0.1.7                                                                      |
-| systems | unix-opts                                                                  |
-|---------+----------------------------------------------------------------------------|
+|---------+------------------------------------------------|
+| source  | git:https://github.com/libre-man/unix-opts.git |
+| commit  | 0e61f34                                        |
+| systems | unix-opts                                      |
+|---------+------------------------------------------------|
